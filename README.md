@@ -1,4 +1,4 @@
-
+**Sales Management Project**
 **📊 Overview**
 
 This project focuses on analyzing internet sales performance for a retail company using the AdventureWorks sample dataset. The main goal was to transition from static reports to interactive dashboards that allow management to easily explore sales trends, compare performance against budget, and monitor progress over time.
