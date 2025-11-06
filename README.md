@@ -56,6 +56,9 @@ Additionally, Excel was used to import 2025 budget data, which allowed for compa
 
 **💾 Data Model**
 
+This data model also shows how FACT_Budget hsa been connected to FACT_InternetSales and other necessary DIM tables.
+
+&nbsp;
 
 <img width="1287" height="613" alt="image" src="https://github.com/user-attachments/assets/3e0685cb-9698-4ff9-8f66-096f2a89174a" />    
 
