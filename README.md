@@ -1,4 +1,5 @@
-**Sales Management Project**
+# **Sales Management Project**
+
 **📊 Overview**
 
 This project focuses on analyzing internet sales performance for a retail company using the AdventureWorks sample dataset. The main goal was to transition from static reports to interactive dashboards that allow management to easily explore sales trends, compare performance against budget, and monitor progress over time.
@@ -56,14 +57,15 @@ Additionally, Excel was used to import 2025 budget data, which allowed for compa
 **💾 Data Model**
 
 
-<img width="1287" height="613" alt="image" src="https://github.com/user-attachments/assets/3e0685cb-9698-4ff9-8f66-096f2a89174a" />  
+<img width="1287" height="613" alt="image" src="https://github.com/user-attachments/assets/3e0685cb-9698-4ff9-8f66-096f2a89174a" />    
 
-
-
+&nbsp;
 
 **📈 Power Bi Dashboard**
 
 The finished sales management dashboard with one page with works as a dashboard and overview, with two other pages focused on combining tables for necessary details and      visualizations to show sales over time, per customers and per products.
+
+[Click here to open the dashboard and try it out!](https://app.powerbi.com/links/k2VhWDJOOB?ctid=d0da435b-a7e7-4d74-a4ae-f72cf8f3b2db&pbi_source=linkShare)
 
   
   <img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/ab1a11aa-d8a6-4bc0-8421-9b35cc615bd7" /> <img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/e19ee2cd-fd0c-4755-969b-67f854427dca" /> <img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/10b67883-16aa-4990-a6e6-63893b6f5faa" />
