@@ -11,7 +11,7 @@ Steven, the Sales Manager, requested a more dynamic reporting solution to replac
 
 Additionally, the solution should:
 
- - Allow filtering by salesperson, product, and customer
+ - Allow filtering by products and customers
 
  - Include a comparison against budget for 2025
 
@@ -68,7 +68,7 @@ This data model also shows how FACT_Budget hsa been connected to FACT_InternetSa
 
 The finished sales management dashboard with one page with works as a dashboard and overview, with two other pages focused on combining tables for necessary details and      visualizations to show sales over time, per customers and per products.
 
-[Click here to open the dashboard and try it out!](https://app.powerbi.com/links/k2VhWDJOOB?ctid=d0da435b-a7e7-4d74-a4ae-f72cf8f3b2db&pbi_source=linkShare)
+The Power BI dashboard file (`Sales_Management_Dashboard.pbix`) is available in this repository.
 
   
   <img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/ab1a11aa-d8a6-4bc0-8421-9b35cc615bd7" /> <img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/e19ee2cd-fd0c-4755-969b-67f854427dca" /> <img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/10b67883-16aa-4990-a6e6-63893b6f5faa" />
