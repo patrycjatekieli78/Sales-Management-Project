@@ -41,7 +41,7 @@ Additionally, Excel was used to import 2025 budget data, which allowed for compa
 
 **⚙️ Tools**
 
- - SQL (SQL Server): for data extraction, transformation, and cleansing
+ - SQL (MS SQL Server): for data extraction, transformation, and cleansing
 
  - Power BI: for data modeling, visualization, and dashboard design
 
